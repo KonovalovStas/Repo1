@@ -1,0 +1,15 @@
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\bin\Debug\net7.0\Ex001_HelloConsole.exe
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\bin\Debug\net7.0\Ex001_HelloConsole.deps.json
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\bin\Debug\net7.0\Ex001_HelloConsole.runtimeconfig.json
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\bin\Debug\net7.0\Ex001_HelloConsole.dll
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\bin\Debug\net7.0\Ex001_HelloConsole.pdb
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.AssemblyInfo.cs
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.dll
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\refint\Ex001_HelloConsole.dll
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.pdb
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\Ex001_HelloConsole.genruntimeconfig.cache
+D:\Программы\Мои первые программы\Ex\Examples\Ex001_HelloConsole\obj\Debug\net7.0\ref\Ex001_HelloConsole.dll
